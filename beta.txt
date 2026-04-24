@@ -1,0 +1,37 @@
+Jesús Odreman
+odreman@jesusodreman:~/Documentos/QAUB/TP_UB_i3_104$ ifconfig
+enp2s0: flags=4099<UP,BROADCAST,MULTICAST>  mtu 1500
+        ether 30:d0:42:0f:bf:7e  txqueuelen 1000  (Ethernet)
+        RX packets 0  bytes 0 (0.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 0  bytes 0 (0.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        inet6 ::1  prefixlen 128  scopeid 0x10<host>
+        loop  txqueuelen 1000  (Bucle local)
+        RX packets 215019  bytes 21210376 (21.2 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 215019  bytes 21210376 (21.2 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+tailscale0: flags=4305<UP,POINTOPOINT,RUNNING,NOARP,MULTICAST>  mtu 1280
+        inet 100.87.48.40  netmask 255.255.255.255  destination 100.87.48.40
+        inet6 fd7a:115c:a1e0::13b:3028  prefixlen 128  scopeid 0x0<global>
+        inet6 fe80::df98:8c62:dccd:fe8  prefixlen 64  scopeid 0x20<link>
+        unspec 00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00  txqueuelen 500  (UNSPEC)
+        RX packets 79740  bytes 30879346 (30.8 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 82919  bytes 7965618 (7.9 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 10.243.239.215  netmask 255.0.0.0  broadcast 10.255.255.255
+        inet6 fe80::ba39:8371:bde1:873a  prefixlen 64  scopeid 0x20<link>
+        ether 18:47:3d:60:02:ad  txqueuelen 1000  (Ethernet)
+        RX packets 2302086  bytes 2895544603 (2.8 GB)
+        RX errors 0  dropped 2335  overruns 0  frame 0
+        TX packets 1053039  bytes 208758928 (208.7 MB)
+        TX errors 0  dropped 20 overruns 0  carrier 0  collisions 0
+19:18
