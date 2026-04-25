@@ -35,3 +35,7 @@ wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX packets 1053039  bytes 208758928 (208.7 MB)
         TX errors 0  dropped 20 overruns 0  carrier 0  collisions 0
 19:18
+
+
+
+Augusto Serra 192.168.1.2 13:31
