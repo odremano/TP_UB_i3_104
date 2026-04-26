@@ -39,7 +39,7 @@ wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
 
 
 Augusto Serra 192.168.1.2 13:31
-Axel Flores 13:23 PM
+Axel Flores 13:24 PM
 Windows IP Configuration
 
 
