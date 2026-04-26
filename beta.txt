@@ -69,3 +69,23 @@ Wireless LAN adapter Wi-Fi:
    Subnet Mask . . . . . . . . . . . : 255.255.255.0
    Default Gateway . . . . . . . . . : fe80::10:18ff:fe53:f2e4%19
                                        192.168.0.1
+Augusto Serra  18:30
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . : 
+   Vínculo: dirección IPv6 local. . . : fe80::1c71:e1c5:903c:917a%4
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : 
+   Vínculo: dirección IPv6 local. . . : fe80::351a:5b85:3d27:2fe9%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.2
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
