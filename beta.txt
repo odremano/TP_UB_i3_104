@@ -35,3 +35,57 @@ wlp3s0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
         TX packets 1053039  bytes 208758928 (208.7 MB)
         TX errors 0  dropped 20 overruns 0  carrier 0  collisions 0
 19:18
+
+
+
+Augusto Serra 192.168.1.2 13:31
+Axel Flores 13:24 PM
+Windows IP Configuration
+
+
+Ethernet adapter Ethernet:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 1:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Local Area Connection* 2:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . :
+
+Wireless LAN adapter Wi-Fi:
+
+   Connection-specific DNS Suffix  . : fibertel.com.ar
+   IPv6 Address. . . . . . . . . . . : 2800:2121:b040:4d5:5457:30ee:4164:212c
+   IPv6 Address. . . . . . . . . . . : 2800:2121:b040:4d5:7208:cdfa:bbb1:105d
+   Temporary IPv6 Address. . . . . . : 2800:2121:b040:4d5:6ce7:fbf5:389e:847c
+   Link-local IPv6 Address . . . . . : fe80::4003:b8e9:f32b:2fcc%19
+   IPv4 Address. . . . . . . . . . . : 192.168.0.118
+   Subnet Mask . . . . . . . . . . . : 255.255.255.0
+   Default Gateway . . . . . . . . . : fe80::10:18ff:fe53:f2e4%19
+                                       192.168.0.1
+Augusto Serra  18:30
+
+Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS específico para la conexión. . : 
+   Vínculo: dirección IPv6 local. . . : fe80::1c71:e1c5:903c:917a%4
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . : 
+   Vínculo: dirección IPv6 local. . . : fe80::351a:5b85:3d27:2fe9%15
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.1.2
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.1.1
