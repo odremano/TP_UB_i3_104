@@ -16,7 +16,18 @@ c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merg
 
 Responde GAMMA:
 d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+      solamente la rama de beta y la de gamma queda desactualizada
+
 e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+        tuvimos un conflicto cuando ALFA modifico su archivo sin hacer el pull de GAMMA. al hacer alfa el commit, github no lo dejo y tuvo 
+        que resolver un merge conflict. luego pudo hacer el commit. adjunto imagen
 f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+git pull
+git checkout Odreman
+ipconfig
+git add .
+git commit -m
+git push
+
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
