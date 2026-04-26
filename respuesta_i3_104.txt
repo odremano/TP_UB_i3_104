@@ -31,3 +31,15 @@ git push
 
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+
+git pull
+git checkout Odreman
+ipconfig
+git add .
+git commit -m
+git push
+Merge conflict
+git pull
+git add .
+git commit -m
+git push
