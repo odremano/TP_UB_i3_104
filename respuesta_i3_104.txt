@@ -1,0 +1,22 @@
+Responde BETA:
+a-¿Cómo queda el máster después de estos cambios?
+
+- La rama master (main en este caso) queda con los cambios de beta.txt en donde se encuentra también la información de ifconfig/ipconfig de gamma y alfa. Además de el CPU.txt de cada uno y el datos.txt.
+
+b-¿Beta pudo ver todos los cambios que se realizaron?
+
+- Si.
+
+c-¿que debió hacer (todos los comandos) en el punto 5 para poder hacer el merge ?
+
+- git checkout main
+  git pull origin main
+  git merge Serra
+  git push origin main
+
+Responde GAMMA:
+d-¿Las ramas creadas por BETA y GAMMA quedan con datos actualizados?
+e-¿Detalle (explique) los problemas que tuvieron al hacer el merge?
+f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedido?
+Responde ALFA:
+G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
